@@ -1,7 +1,6 @@
 # legiscontrol
 
-# Esse espaço está destinado à co-criação do legiscontrol, o app que facilita/possibilita 
-# a vigilância do poder legislativo pelos cidadãos. 
+# Esse espaço está destinado à co-criação do legiscontrol, o app que facilita/possibilita a vigilância do poder legislativo pelos cidadãos. 
 
 # Em resumo, o que está sendo idealizado; 
 # Os 3 pilares:
