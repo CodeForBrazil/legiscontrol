@@ -1,37 +1,23 @@
-# Configuration
+# legiscontrol
 
-## Database
+# Esse espaço está destinado à co-criação do legiscontrol, o app que facilita/possibilita a vigilância do poder legislativo pelos cidadãos. 
 
-Create database using last version from `db/dump` directory.
-Execute scripts from `db/scripts`
+# Em resumo, o que está sendo idealizado; Os 3 pilares:
 
-## Environment
+## INFORMAÇÃO:
+### Resumo acessível dos projetos de lei
+### Anexo pdf de projetos na íntegra
+### Breve informação de cada congressista
+### Acompanhamento do status de projetos
 
-### Environment Variable
+## VIGILÂNCIA
+### Votação dos projetos de lei pelo usuário (???com pesos para criação de pontuação ponderada???)
+### Acesso ao resultado da votação em plenário de um projeto específico
+### Ranking personalizado de representatividade dos deputados federais e senadores (separadamente)
+### Análise de votos concordantes e discordantes de um congressista específico
 
-Define the environment name in an environment variable.
-For example you can add the following line to the `web/.htaccess`:
+## DISCUSSÃO
+### Área de justificativa de voto do congressista
+### Envie uma mensagem para congressista
+### FAQ de cada congressista
 
-```
-SetEnv ENVIRONMENT development
-```
-
-In that case, you may want to configure git so the `.htaccess` file doesn't appear in the modified files to commit:
-
-```
-$ git update-index --assume-unchanged web/.htaccess 
-```
-
-
-### Environment Configuration Directory
-
-1. Add a directory with the environment name in `web/application/config`
-2. Copy of the config files with server specific values like `database.php`, `email.php` and `environment.php`
-3. Edit those files
-
-
-# Documentation
-
-For more information about using PHP on Heroku, see these Dev Center articles:
-
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
