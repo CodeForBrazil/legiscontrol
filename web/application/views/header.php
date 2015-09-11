@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" href="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg"></link>
+	<link rel="shortcut icon" href="assets/img/_318-42397.jpg"></link>
     <title>Politikei</title>
 
     <meta name="description" content="Source code generated using layoutit.com">

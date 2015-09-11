@@ -77,7 +77,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-2">
-			<img alt="Bootstrap Image Preview" src="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">
+			<img alt="Bootstrap Image Preview" src="assets/img/_318-42397.jpg">
 		</div>
 		
 		<div class="col-md-10">
@@ -87,7 +87,7 @@
 			<p>
 				Permite hackear tudo na vida para melhorar a vida e ajudar na vida dos outros ebaaaaaaaaaaaaaaaaaa.
 			
-				<a class="btn" href="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">Mais +</a>
+				<a class="btn" href="assets/img/_318-42397.jpg">Mais +</a>
 			</p>
 			<div class="btn-group">
 				
@@ -106,7 +106,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-2">
-			<img alt="Bootstrap Image Preview" src="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">
+			<img alt="Bootstrap Image Preview" src="assets/img/_318-42397.jpg">
 		</div>
 		<div class="col-md-10">
 			<h4>
@@ -129,7 +129,7 @@
 	<div class="row"><p></p></div>
 	<div class="row">
 		<div class="col-md-2">
-			<img alt="Bootstrap Image Preview" src="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">
+			<img alt="Bootstrap Image Preview" src="assets/img/_318-42397.jpg">
 		</div>
 		<div class="col-md-10">
 			<h4>
@@ -151,7 +151,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-2">
-			<img alt="Bootstrap Image Preview" src="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">
+			<img alt="Bootstrap Image Preview" src="assets/img/318-42397.jpg">
 		</div>
 		<div class="col-md-10">
 			<h4>
@@ -173,7 +173,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-2">
-			<img alt="Bootstrap Image Preview" src="C:\Users\Gustavo\Desktop\layoutit\src\_318-42397.jpg">
+			<img alt="Bootstrap Image Preview" src="assets/img/_318-42397.jpg">
 		</div>
 		<div class="col-md-10">
 			<h4>
